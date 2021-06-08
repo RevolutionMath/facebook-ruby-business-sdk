@@ -312,6 +312,7 @@ module FacebookAds
         end
         hash
       end
+      
     end
   end
 end
